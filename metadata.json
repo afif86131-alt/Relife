@@ -1,0 +1,5 @@
+{
+  "name": "Relife",
+  "description": "An app to create a heartwarming image of your adult self reuniting with your childhood self. Upload a recent photo and a childhood photo to generate an image of them hugging.",
+  "requestFramePermissions": []
+}
